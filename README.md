@@ -16,12 +16,11 @@ A modern, interactive visualization tool for understanding popular sorting algor
 
 ## 🛠️ Technologies Used
 
-- **Frontend Framework**: React with Hooks
+- **Frontend Framework**: React + Hooks
 - **Styling**: Styled Components + Material-UI
-- **State Management**: Zustand (lightweight state management)
+- **State Management**: Zustand
 - **Build Tool**: Vite
-- **Animations**: CSS keyframes with FLIP principle
-- **Layout**: CSS Flexbox for dynamic array positioning
+- **Layout**: CSS Flexbox
 
 ## 📦 Installation
 
