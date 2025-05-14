@@ -15,7 +15,7 @@ A modern, interactive visualization tool for understanding popular sorting algor
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-link.com) <!-- Replace with actual demo link -->
+[View Live Demo](https://sorting-algorithms-visualizer-blue.vercel.app/)
 
 ## 🛠️ Technologies Used
 
