@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+/* Responsive text sizes */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
