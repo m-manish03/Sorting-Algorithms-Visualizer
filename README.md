@@ -6,16 +6,13 @@ A modern, interactive visualization tool for understanding popular sorting algor
 
 - **Interactive Visualization**: Watch sorting algorithms in action with smooth CSS animations
 - **Multiple Algorithms**: Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, Heap Sort, and Merge Sort
-- **Customizable Input**: Sort any array of positive integers or generate random arrays
+- **Customizable Input**: Sort an array of positive integers or generate random arrays
 - **Speed Control**: Adjust animation speed from 1x to 10x for optimal learning pace
 - **Real-time Statistics**: Track swaps, comparisons, and execution time for each algorithm
 - **Side-by-side Comparison**: View all algorithms simultaneously in "All" mode
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Keyboard Controls**: Use spacebar to start/pause sorting
 
-## 🚀 Live Demo
-
-[View Live Demo](https://sorting-algorithms-visualizer-blue.vercel.app/)
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +47,7 @@ npm run dev
 
 1. **Input Array**: Enter numbers manually or click "Generate Random Array"
 2. **Select Algorithm**: Choose from the tabs (Bubble, Selection, Insertion, etc.) or select "All" for comparison
-3. **Adjust Speed**: Use the speed slider to control animation pace
+3. **Adjust Speed**: Use the speed slider to control the animation pace
 4. **Control Playback**: 
    - Click play/pause buttons
    - Use spacebar for quick start/stop
@@ -63,15 +60,6 @@ npm run dev
 - **Responsive Design**: Adaptive array sizing based on screen width
 - **Performance Optimized**: Efficient state management and minimal re-renders
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
